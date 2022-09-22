@@ -40,7 +40,7 @@
 <br><br>
 
 [대표 이미지]
-
+![그림](./img/mainplay2.png)
 ![그림](./img/mainplay2.png)
 
 <br><br>
