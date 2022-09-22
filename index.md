@@ -35,6 +35,7 @@
 
 - 동영상 
 [(https://www.youtube.com/watch?v=W2HGNzUBy0k)]
+<a href="(https://www.youtube.com/watch?v=W2HGNzUBy0k">
 
 <br><br>
 
