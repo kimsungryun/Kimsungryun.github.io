@@ -34,7 +34,7 @@
 <img src="./img/assemble.jpg">
 
 - 동영상 
-https://img.youtube.com/vi/54jAg8l70q0
+https://img.youtube.com/54jAg8l70q0
 
 <br><br>
 
