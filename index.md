@@ -34,7 +34,7 @@
 <img src="./img/assemble.jpg">
 
 - 동영상 
-- [!(http://img.youtube.com/vi/54jAg8l70q0/0.jpg)](https://youtu.be/54jAg8l70q0=0s) 
+- [![노바1492 제니퍼](http://img.youtube.com/vi/54jAg8l70q0/0.jpg)](https://youtu.be/54jAg8l70q0=0s) 
 
 <br><br>
 
