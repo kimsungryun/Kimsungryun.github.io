@@ -141,9 +141,13 @@
 
 
 ## 2. 파라미터(속성)
-|연번|오브젝트 이름|오브젝트 이미지|오브젝트 이미지|
+
+1) 오브젝트 이름 : Lightweight Command Center
+|속성|영문명칭|설명|비고|
 |:----:|:----:|:----:|:----:|
-|1|축구장|<img src="./img/축구장.png" width="500">|<img src="./img/축구장.png" width="500">|
-|2|골대|<img src="./img/골대.png" width="500">|<img src="./img/골대.png" width="500">|
-|3|홍길동선수|<img src="./img/홍길동선수.png" height="300">|<img src="./img/홍길동선수.png" height="300">|
-|4|골킵|<img src="./img/골킵.png" height="300">|<img src="./img/골킵.png" height="300">|
+|체력||||
+|자원|||
+|이동속도|||
+|공격|||
+|스킬|||
+||||
