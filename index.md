@@ -143,7 +143,7 @@
 ## 2. 파라미터(속성)
 |속성|영문명칭|설명|비고|
 |:----:|:----:|:----:|:----:|
-|체력|Chp|기지가 가지고있는 총 체력과 현재 체력|기지가 가지고있는 총 체력과 현재 체력|
+|체력|Chp|기지가 가지고있는 총 체력과 현재 체력|
 |자원|Cresource|기지가 자동으로 생산하는 자원|
 |4|Monster(BOSS)|![image](https://user-images.githubusercontent.com/81716808/196673058-c5c4eb18-dd28-4e76-97bf-d822e75c02a0.png)|
 |5|Skill|![image](https://user-images.githubusercontent.com/81716808/196689477-61f730cc-2ffd-4a2f-a1cb-78ace9f41eef.png)|
