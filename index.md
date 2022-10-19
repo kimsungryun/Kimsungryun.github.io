@@ -127,7 +127,7 @@
 루즈하지 않을 정도로 만들 예정입니다.
 
 # [게임 시스템 디자인]<a name = '5'></a>
-## 4. 게임 오브젝트 분해
+## 1. 게임 오브젝트 분해
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
 |1|Lightweight Command Center|![image](https://user-images.githubusercontent.com/81716808/196672816-1a2cf708-3b7d-474b-b124-f93e9c6c485f.png)|
@@ -138,3 +138,6 @@
 |6|Ground Unit|![image](https://user-images.githubusercontent.com/81716808/196689497-425c1056-4d36-4954-94fb-563735ff4c83.png)|
 |7|Public Unit|![image](https://user-images.githubusercontent.com/81716808/196689517-b3f048f8-b44c-40e9-8bdd-ff5e7fec332a.png)|
 |8|Background|![image](https://user-images.githubusercontent.com/81716808/196689529-c7f4f97e-7699-46c3-acdf-3b0160478e60.png)|
+
+
+## 2. 파라미터(속성)
