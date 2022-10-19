@@ -130,7 +130,7 @@
 ## 4. 게임 오브젝트 분해
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|축구장|<img src="./img/축구장.png" width="500">|
+|1|축구장|<img src=![image](https://user-images.githubusercontent.com/81716808/196672284-40d24e76-f62b-4c95-a9bb-1ca686ec1be9.png)>|
 |2|골대|<img src="./img/골대.png" width="500">|
 |3|홍길동선수|<img src="./img/홍길동선수.png" height="300">|
 |4|골킵|<img src="./img/골킵.png" height="300">|
