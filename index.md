@@ -131,9 +131,9 @@
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
 |1|Lightweight Command Center|![image](https://user-images.githubusercontent.com/81716808/196672816-1a2cf708-3b7d-474b-b124-f93e9c6c485f.png)|
-|2|resource|<img src="./img/골대.png" width="500">|
-|3|Monster|<img src="./img/홍길동선수.png" height="300">|
-|4|Monster(BOSS)|<img src="./img/골킵.png" height="300">|
+|2|resource|![image](https://user-images.githubusercontent.com/81716808/196672964-272953c9-be9a-401d-874d-b91f956b3202.png)|
+|3|Monster|![image](https://user-images.githubusercontent.com/81716808/196672982-129e0c56-014c-48b9-a604-43292d2306ec.png)![image](https://user-images.githubusercontent.com/81716808/196673001-0fcef85b-7a1e-4551-adc7-d935d414475b.png)|
+|4|Monster(BOSS)|![image](https://user-images.githubusercontent.com/81716808/196673058-c5c4eb18-dd28-4e76-97bf-d822e75c02a0.png)|
 |5|Skill|<img src="./img/축구장.png" width="500">|
 |6|Ground Unit|<img src="./img/골대.png" width="500">|
 |7|Public Unit|<img src="./img/홍길동선수.png" height="300">|
