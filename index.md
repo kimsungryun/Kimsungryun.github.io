@@ -141,11 +141,10 @@
 
 
 ## 2. 파라미터(속성)
-|연번|오브젝트 이름|오브젝트 이미지|
-|:----:|:----:|:----:|
-|1|Lightweight Command Center|![image](https://user-images.githubusercontent.com/81716808/196672816-1a2cf708-3b7d-474b-b124-f93e9c6c485f.png)|
-|2|resource|![image](https://user-images.githubusercontent.com/81716808/196672964-272953c9-be9a-401d-874d-b91f956b3202.png)|
-|3|Monster|![image](https://user-images.githubusercontent.com/81716808/196672982-129e0c56-014c-48b9-a604-43292d2306ec.png)![image](https://user-images.githubusercontent.com/81716808/196673001-0fcef85b-7a1e-4551-adc7-d935d414475b.png)|
+|속성|영문명칭|설명|비고|
+|:----:|:----:|:----:|:----:|
+|체력|Chp|기지가 가지고있는 총 체력과 현재 체력|기지가 가지고있는 총 체력과 현재 체력|
+|자원|Cresource|기지가 자동으로 생산하는 자원|
 |4|Monster(BOSS)|![image](https://user-images.githubusercontent.com/81716808/196673058-c5c4eb18-dd28-4e76-97bf-d822e75c02a0.png)|
 |5|Skill|![image](https://user-images.githubusercontent.com/81716808/196689477-61f730cc-2ffd-4a2f-a1cb-78ace9f41eef.png)|
 |6|Ground Unit|![image](https://user-images.githubusercontent.com/81716808/196689497-425c1056-4d36-4954-94fb-563735ff4c83.png)|
