@@ -134,7 +134,7 @@
 |2|resource|![image](https://user-images.githubusercontent.com/81716808/196672964-272953c9-be9a-401d-874d-b91f956b3202.png)|
 |3|Monster|![image](https://user-images.githubusercontent.com/81716808/196672982-129e0c56-014c-48b9-a604-43292d2306ec.png)![image](https://user-images.githubusercontent.com/81716808/196673001-0fcef85b-7a1e-4551-adc7-d935d414475b.png)|
 |4|Monster(BOSS)|![image](https://user-images.githubusercontent.com/81716808/196673058-c5c4eb18-dd28-4e76-97bf-d822e75c02a0.png)|
-|5|Skill|<img src="./img/축구장.png" width="500">|
-|6|Ground Unit|<img src="./img/골대.png" width="500">|
-|7|Public Unit|<img src="./img/홍길동선수.png" height="300">|
-|8|Background|<img src="./img/골킵.png" height="300">|
+|5|Skill|![image](https://user-images.githubusercontent.com/81716808/196689477-61f730cc-2ffd-4a2f-a1cb-78ace9f41eef.png)|
+|6|Ground Unit|![image](https://user-images.githubusercontent.com/81716808/196689497-425c1056-4d36-4954-94fb-563735ff4c83.png)|
+|7|Public Unit|![image](https://user-images.githubusercontent.com/81716808/196689517-b3f048f8-b44c-40e9-8bdd-ff5e7fec332a.png)|
+|8|Background|![image](https://user-images.githubusercontent.com/81716808/196689529-c7f4f97e-7699-46c3-acdf-3b0160478e60.png)|
