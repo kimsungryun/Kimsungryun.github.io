@@ -130,7 +130,7 @@
 ## 4. 게임 오브젝트 분해
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|Lightweight Command Center|<img src=>|
+|1|Lightweight Command Center|![image](https://user-images.githubusercontent.com/81716808/196672816-1a2cf708-3b7d-474b-b124-f93e9c6c485f.png)|
 |2|resource|<img src="./img/골대.png" width="500">|
 |3|Monster|<img src="./img/홍길동선수.png" height="300">|
 |4|Monster(BOSS)|<img src="./img/골킵.png" height="300">|
