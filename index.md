@@ -145,11 +145,10 @@
 ## 오브젝트 이름 : Lightweight Command Center
 |속성|영문명칭|설명|비고|
 |:----:|:----:|:----:|:----:|
-|체력|Chp|기지가 가지고있는 총 체력과 현재 체력|
-|자원|Cresource|기지가 자동으로 생산하는 자원|
-|4|Monster(BOSS)|![image](https://user-images.githubusercontent.com/81716808/196673058-c5c4eb18-dd28-4e76-97bf-d822e75c02a0.png)|
-|5|Skill|![image](https://user-images.githubusercontent.com/81716808/196689477-61f730cc-2ffd-4a2f-a1cb-78ace9f41eef.png)|
-|6|Ground Unit|![image](https://user-images.githubusercontent.com/81716808/196689497-425c1056-4d36-4954-94fb-563735ff4c83.png)|
-|7|Public Unit|![image](https://user-images.githubusercontent.com/81716808/196689517-b3f048f8-b44c-40e9-8bdd-ff5e7fec332a.png)|
-|8|Background|![image](https://user-images.githubusercontent.com/81716808/196689529-c7f4f97e-7699-46c3-acdf-3b0160478e60.png)|
+|체력|LCChp|기지가 가지고있는 총 체력과 현재 체력|
+|자원|LCCresource|기지가 자동으로 생산하는 자원|
+|이동속도|LCCspeed|추가 부품을 장착하여 기지를 이동할 수 있는 속도|
+|공격|LCCattack|추가 부품을 장착하여 기지가 공격할 수 있는 수치|
+|스킬|Cskill|기지가 사용할 수 있는 스킬|
+|유닛생산|Cunitproduce|기지에서 자원을 소모해 나오는 유닛들|
 
