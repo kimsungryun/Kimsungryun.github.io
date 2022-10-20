@@ -49,8 +49,8 @@
 <br><br>
 
 [대표 이미지]
-![그림](./img/mainplay1.png)
-![그림](./img/mainplay2.png)
+![그림]![제목 없음](https://user-images.githubusercontent.com/81716808/196828409-53cab8a6-c841-453e-9360-2463b90a3fda.png)
+![그림]![다운로드파일_20220922_103231](https://user-images.githubusercontent.com/81716808/196828430-05322d9a-f4ea-4aa0-9d2b-cf8a5cebc441.jpg)
 
 <br><br>
 
