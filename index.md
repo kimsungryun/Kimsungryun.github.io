@@ -137,7 +137,7 @@
 # [게임 시스템 디자인]<a name = '5'></a>
 ## 1. 게임 오브젝트 분해
 |연번|오브젝트 이름|오브젝트 이미지|
-|:----:|:----:|:----:|
+|:----:|:----:|:----:|:----:|
 |1|Lightweight Command Center|![image](https://user-images.githubusercontent.com/81716808/196672816-1a2cf708-3b7d-474b-b124-f93e9c6c485f.png)|
 |2|resource|![image](https://user-images.githubusercontent.com/81716808/196672964-272953c9-be9a-401d-874d-b91f956b3202.png)|
 |3|Monster|![image](https://user-images.githubusercontent.com/81716808/196672982-129e0c56-014c-48b9-a604-43292d2306ec.png)![image](https://user-images.githubusercontent.com/81716808/196673001-0fcef85b-7a1e-4551-adc7-d935d414475b.png)|
