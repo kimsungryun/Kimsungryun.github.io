@@ -341,10 +341,10 @@
 ![1](https://github.com/kimsungryun/Kimsungryun.github.io/blob/main/img/1.png?raw=true)
 ![2](https://github.com/kimsungryun/Kimsungryun.github.io/blob/main/img/3.png)
 
-## [4주차]
-게임시작후 몬스터(기지)구현
-메인화면에 유닛 LAB 이동 버튼 제작후 로봇LAB제작
-오브젝트 움직임구현을 유닛으로 변경 AI 오브젝트 생성
-※ 게임화면에서 메인화면으로 가는 루트 생성
+## [4주차]  
+게임시작후 몬스터(기지)구현  
+메인화면에 유닛 LAB 이동 버튼 제작후 로봇LAB제작  
+오브젝트 움직임구현을 유닛으로 변경 AI 오브젝트 생성  
+※ 게임화면에서 메인화면으로 가는 루트 생성  
 
-※ 1년 개발일정 조금 더 수정,보완 
+※ 1년 개발일정 조금 더 수정,보완  
