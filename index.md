@@ -312,7 +312,7 @@
 <br><br>
 
 # [프로토타입 개발작업 일정]<a name = '9'></a>
-![1]https://github.com/kimsungryun/Kimsungryun.github.io/blob/main/img/image.png?raw=true
+![1](https://github.com/kimsungryun/Kimsungryun.github.io/blob/main/img/image.png?raw=true)
 
 ## [1주차]
 1. 게임시작후 메인화면 출력, 버튼2개생성 (게임시작, 승패결과) (100%)
