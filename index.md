@@ -359,4 +359,5 @@
 2. 추가로 급하게 프로젝트를 시작하였으나, 기존것과 다른룰이 만들어짐
 3. 급하게 맵과 RTS형식의 카메라 에셋을 공급
 4. AI를 추가하고 자체 생산으로 변경
+![image](https://user-images.githubusercontent.com/81716808/207739969-432e13f8-bcbf-4371-9b70-972cedeac86e.png)
 
