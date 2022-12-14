@@ -353,7 +353,6 @@
 2. 3주차에 문제점을 발견했던 유닛 조립실(LAB)을 메인화면에서 버튼과 함께 제작 예정  
 3. 기지 오브젝트가 완성되면 게임화면에 기지를 추가 구현  
 ![image](https://user-images.githubusercontent.com/81716808/202310566-0eeb3701-a938-44d0-8be6-0abe495fefb4.png)
-![image](https://user-images.githubusercontent.com/81716808/202310596-2d867850-13f7-4896-92b8-39028fd48517.png)
 
 
 ※ 1년 개발일정 조금 더 수정,보완  
