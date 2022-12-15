@@ -361,3 +361,10 @@
 4. AI를 추가하고 자체 생산으로 변경
 ![image](https://user-images.githubusercontent.com/81716808/207739969-432e13f8-bcbf-4371-9b70-972cedeac86e.png)
 
+[6주차 작업내용]
+1. save와 load 시스템 구현
+2. 맵 평탄화 작업(언덕이 높으면 올라갈수가없기때문)
+3. RTS카메라 스크립트 수정(space bar 누르면 카메라 )
+![image](https://user-images.githubusercontent.com/81716808/207741004-80501a21-fef8-47a3-b6ae-b62ebc6f2cbc.png)
+![image](https://user-images.githubusercontent.com/81716808/207741219-15d56b8c-6ed6-46eb-912a-2f86e9fc718b.png)
+
